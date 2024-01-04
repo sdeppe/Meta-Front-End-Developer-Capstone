@@ -20,12 +20,3 @@ Course 7: [Principles of UX/UI Design](https://www.coursera.org/learn/principles
 Course 8: [Front-End Developer Capstone](https://www.coursera.org/learn/meta-front-end-developer-capstone?specialization=meta-front-end-developer)
 
 Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-front-end-developer)
-
-
-## Live
-
-[Live Website](https://meta-front-end-developer.onrender.com/)
-
-## Demo
-
-![Little Lemon Website](./src/images/demo/LLDemo.gif)
